@@ -1,0 +1,2 @@
+rootProject.name = "hyperos-game"
+include ':app'
